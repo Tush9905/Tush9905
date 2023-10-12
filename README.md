@@ -1,5 +1,5 @@
 # Tushaar V
-## Data Science, AI / Machine Learning & Deep Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
+## Data Science, AI, Machine Learning & Deep Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
 ## Skills
 
