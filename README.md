@@ -1,7 +1,7 @@
 # Tushaar V
 ## Data Science, AI / Machine Learning & Deep Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
-## **My Skillset -**
+## Skills
 
 **AI, Machine Learning & Deep Learning:**
 Scikit Learn, Tensorflow, PyTorch, OpenCV, Hugging Face | Natural Language Processing (NLP) & Large Language Models (LLM)
