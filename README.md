@@ -1,6 +1,13 @@
 # Tushaar V
 ## Data Science, AI, Machine Learning & Deep Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
+## Projects
+### [Heart Disease Risk Predictor](https://github.com/Tush9905/Heart_Disease_Risk_Predictor)
+* It Predicts the Risk of Brain Stroke.
+* Achieved an accuracy of **96%** with the Machine Learning Model using the Random Forest Classifier ML Algorithm.
+* Developed the Web App using Streamlit.
+* Tech - Python, Pandas, Scikit Learn, Streamlit.
+
 ## Skills
 
 **AI, Machine Learning & Deep Learning:**
