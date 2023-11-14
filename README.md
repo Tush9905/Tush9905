@@ -2,6 +2,11 @@
 ## Data Science, AI, Machine Learning & Deep Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
 ## Projects
+### Fraud EMail Detector | [GitHub Repository](https://github.com/Tush9905/Fraud_EMail_Detector)
+* Achieved **99.86%** Accuracy in Fraud E-Mail Detection using Natural Language Processing (NLP) by Fine Tuning the **RoBERTa LLM Transformer** on a Dataset of 11,928 E-Mails using Python, Pandas, PyTorch, Hugging Face.
+* It is not Overfit
+* Tech Used - **Python, Pandas, PyTorch, Hugging Face Transformers**
+
 ### Heart Disease Risk Predictor | [GitHub Repository |](https://github.com/Tush9905/Heart_Disease_Risk_Predictor) [ Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7103665232367022080/)
 * It Predicts the **Risk** of a **Heart Disease** for a person based on their Age, Sex, Chest Pain Type, Resting Blood Pressure, Serum Cholestrol, Fasting Blood Sugar, Resting Electrocardiographic Results, Max Heart Rate / Pulse, Exercise induced angina, ST depression, ST Segment, Number of major vessels colored by flourosopy and Thal.
 * Achieved an accuracy of **98%** with the Machine Learning Model using the Random Forest Classifier ML Algorithm using Scikit Learn.
