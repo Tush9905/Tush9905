@@ -2,7 +2,7 @@
 ## Data Science, AI, Machine Learning & Deep Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
 ## Projects
-### Fraud EMail Detector | [GitHub Repository |](https://github.com/Tush9905/Fraud_EMail_Detector) [ Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7130884773358534657/)
+### Fraud E-Mail Detector | [GitHub Repository |](https://github.com/Tush9905/Fraud_EMail_Detector) [ Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7130884773358534657/)
 * Detects **Spam / Fraud E-Mails** using using Natural Language Processing (NLP) - RoBERTa Large Language Model (LLM)
 * Achieved **99.86%** Accuracy in Fraud E-Mail Detection by Fine Tuning the **RoBERTa LLM Transformer** on a Dataset of 11,928 E-Mails using Python, Pandas, PyTorch, Hugging Face.
 * It is not Overfit
