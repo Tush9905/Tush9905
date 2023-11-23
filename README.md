@@ -2,7 +2,7 @@
 ## Data Science, AI, Machine Learning & Deep Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
 ## Projects
-### Fake News Detector | [GitHub Repository](https://github.com/Tush9905/Fake_News_Detector)
+### Fake News Detector | [GitHub Repository |](https://github.com/Tush9905/Fake_News_Detector) [ Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7133379793978327040/)
 * Detects **Fake News** using using Natural Language Processing (NLP) - DeBERTa Large Language Model (LLM)
 * Achieved **99.86%** Accuracy in Fraud E-Mail Detection by Fine Tuning the **DeBERTa LLM Transformer** on a Dataset of **72,133 News Articles** using Python, Pandas, PyTorch, Hugging Face.
 * Tech Used - **Python, Pandas, PyTorch, Hugging Face Transformers**
