@@ -6,24 +6,26 @@
 * Detects **Fake News** using using Natural Language Processing (NLP) - DeBERTa Large Language Model (LLM)
 * Achieved **99.86%** Accuracy in Fraud E-Mail Detection by Fine Tuning the **DeBERTa LLM Transformer** on a Dataset of **72,133 News Articles** using Python, Pandas, PyTorch, Hugging Face.
 * Used **Hugging Face Hub** with **Hugging Face Inference API** for **MLOps / Deploying** the Model.
-* Tech Used - **Python, Pandas, PyTorch, Hugging Face**
+* Developed an Interactive Web App using Streamlit.
+* Tech Used - **Python, Pandas, PyTorch, Hugging Face, Streamlit.**
 
 ### Fraud E-Mail Detector | [GitHub Repository |](https://github.com/Tush9905/Fraud_EMail_Detector) [ Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7130884773358534657/)
 * Detects **Spam / Fraud E-Mails** using using Natural Language Processing (NLP) - RoBERTa Large Language Model (LLM)
 * Achieved **99.86%** Accuracy in Fraud E-Mail Detection by Fine Tuning the **RoBERTa LLM Transformer** on a Dataset of 11,928 E-Mails using Python, Pandas, PyTorch, Hugging Face.
 * Used **Hugging Face Hub** with **Hugging Face Inference API** for **MLOps / Deploying** the Model.
-* Tech Used - **Python, Pandas, PyTorch, Hugging Face**
+* Developed an Interactive Web App using Streamlit.
+* Tech Used - **Python, Pandas, PyTorch, Hugging Face, Streamlit.**
 
 ### Heart Disease Risk Predictor | [GitHub Repository |](https://github.com/Tush9905/Heart_Disease_Risk_Predictor) [ Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7103665232367022080/)
 * It Predicts the **Risk** of a **Heart Disease** for a person.
 * Achieved an accuracy of **98%** with the Machine Learning Model using the Random Forest Classifier ML Algorithm using Scikit Learn.
-* Developed the Web App using Streamlit.
+* Developed an Interactive Web App using Streamlit.
 * Tech Used - **Python, Pandas, Scikit Learn, Streamlit.**
 
 ### Brain Stroke Risk Predictor | [GitHub Repository |](https://github.com/Tush9905/Brain_Stroke_Risk_Predictor)[ Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7103772124263174145/)
 * It Predicts the **Risk** of a **Brain Stroke** for a person.
 * Achieved an accuracy of **96%** with the Machine Learning Model using the Random Forest Classifier ML Algorithm using Scikit Learn.
-* Developed the Web App using Streamlit.
+* Developed an Interactive Web App using Streamlit.
 * Tech Used - **Python, Pandas, Scikit Learn, Streamlit.**
 
 ## Skills
