@@ -3,7 +3,7 @@
 
 ## Projects
 ### Fake News Detector | [GitHub Repository |](https://github.com/Tush9905/Fake_News_Detector) [ Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7133379793978327040/)
-* Detects **Fake News** using using Natural Language Processing (NLP) - DeBERTa Large Language Model (LLM)
+* Detects **Fake News** using using Natural Language Processing (NLP) - BERT Large Language Model (LLM)
 * Achieved **99.66%** Accuracy in Fraud E-Mail Detection by Fine Tuning the **BERT LLM Transformer** on a Dataset of **72,133 News Articles** using Python, Pandas, PyTorch, Hugging Face.
 * Used **Hugging Face Hub** with **Hugging Face Inference API** for **MLOps / Deploying** the Model.
 * Developed an Interactive Web App using Streamlit.
