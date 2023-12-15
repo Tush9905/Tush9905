@@ -37,7 +37,7 @@
 ## Skills
 
 **AI, Machine Learning & Deep Learning:**
-Scikit Learn, Tensorflow, PyTorch, OpenCV, Hugging Face, LangChain | Natural Language Processing (NLP) & Large Language Models (LLM)
+Scikit Learn, Hugging Face, LangChain, PyTorch, Tensorflow | Natural Language Processing (NLP) & Large Language Models (LLM)
 
 **Data Manipulation & Visualization:**
 Numpy, Pandas, Matplotlib, Seaborn, Power Bi
