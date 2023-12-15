@@ -2,7 +2,7 @@
 ## Data Science, AI, Machine Learning & Deep Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
 ## Projects
-### Wikipedia_Chatbot | [GitHub Repository](https://github.com/Tush9905/Wikipedia_Chatbot)
+### Wikipedia Chatbot | [GitHub Repository](https://github.com/Tush9905/Wikipedia_Chatbot) | [Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7141393615297069056/)
 * Answers any **Query** based on the Info given on **Wikipedia.**
 * Used the **Zephyr 7B LLM** Model with **LangChain Wikipedia Retriever** in order to Answer the Queries.
 * Used **Hugging Face Inference API** to access the Deployed Model.
