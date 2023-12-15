@@ -2,6 +2,11 @@
 ## Data Science, AI, Machine Learning & Deep Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
 ## Projects
+### Wikipedia_Chatbot | [GitHub Repository](https://github.com/Tush9905/Wikipedia_Chatbot)
+* Answers any Query based on the Info given on Wikipedia
+* Used the Zephyr 7B LLM Model with LangChain Wikipedia Retriever in order to Answer the Queries.
+* Tech Used - Python, LangChain, Hugging Face, Wikipedia, Streamlit
+
 ### Fake News Detector | [GitHub Repository |](https://github.com/Tush9905/Fake_News_Detector) [ Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7133379793978327040/)
 * Detects **Fake News** using using Natural Language Processing (NLP) - BERT Large Language Model (LLM)
 * Achieved **99.55%** Accuracy in Fraud E-Mail Detection by Fine Tuning the **BERT LLM Transformer** on a Dataset of **72,134 News Articles** using Python, Pandas, PyTorch, Hugging Face.
