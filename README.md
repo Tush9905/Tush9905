@@ -53,7 +53,7 @@ Numpy, Pandas, Matplotlib, Seaborn, Power Bi
 Streamlit, Django, Unity, Unreal Engine
 
 **Cloud, DevOps & MLOps:**
-GCP Compute Engine, GCP Vertex AI, Hugging Face Inference API
+GCP Compute Engine, GCP Vertex AI, Hugging Face Inference API, AWS EC2
 
 **Programming Languages:**
 Python, C++, C# , Java, JavaScript
