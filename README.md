@@ -2,6 +2,13 @@
 ## Data Science, AI, Machine Learning & Deep Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
 ## Projects
+### Product Q&A Chatbot | [GitHub Repository](https://github.com/Tush9905/Product_QnA_Chatbot)
+* Answers any **Questions** based on the FAQ file.
+* Used the **Google PaLM LLM** with **LangChain**.
+* Used **Hugging Face Embeddings** and **FAISS VectorDB** with LangChain.
+* Used **Streamlit** for the **Web App**.
+* Tech Used - **Python, LangChain, Google PaLM, Hugging Face Embeddings, FAISS VectorDB, Streamlit**.
+
 ### Wikipedia Chatbot | [GitHub Repository](https://github.com/Tush9905/Wikipedia_Chatbot) | [Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7141393615297069056/)
 * Answers any **Query** based on the Info given on **Wikipedia.**
 * Used the **Zephyr 7B LLM** Model with **LangChain Wikipedia Retriever** in order to Answer the Queries.
