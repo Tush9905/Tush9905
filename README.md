@@ -1,5 +1,5 @@
 # Tushaar V
-## Data Science, AI, Machine Learning & Deep Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
+## Data Science & AI / Machine Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
 ## Projects
 ### Product Q&A Chatbot | [GitHub Repository](https://github.com/Tush9905/Product_QnA_Chatbot) | [Linkedin Video Post](https://www.linkedin.com/feed/update/urn:li:activity:7142153876878635008/)
