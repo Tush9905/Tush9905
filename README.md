@@ -1,4 +1,5 @@
 # Tushaar V
+## Sole Proprietorship Owner, AI/ML & Software Engineer at [LangYantra](https://langyantra.com) | [LangYantra Linkedin](https://www.linkedin.com/company/langyantra)
 ## Data Science & AI / Machine Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
 ## Projects
