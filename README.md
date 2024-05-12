@@ -51,10 +51,10 @@ Hugging Face, LangChain, Scikit Learn, PyTorch, Tensorflow | Natural Language Pr
 Numpy, Pandas, Matplotlib, Seaborn, Power Bi
 
 **Software Development:**
-Streamlit, Django, Unity, Unreal Engine
+Streamlit, Django, FastAPI, Unity, Unreal Engine
 
 **Cloud, DevOps & MLOps:**
-GCP Compute Engine, GCP Vertex AI, Hugging Face Inference API, AWS EC2
+Gooogle Cloud Platform (GCP), Amazon Web Services (AWS)
 
 **Programming Languages:**
 Python, C++, C# , Java, JavaScript
