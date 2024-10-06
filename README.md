@@ -1,5 +1,5 @@
 # Tushaar V
-## Business Owner, AI / Machine Learning & Software Engineer at [LangYantra AI](https://langyantra.com)
+## Founder & Owner, Gen AI & Software Engineer at [LangYantra AI](https://langyantra.com)
 ## Data Science & AI / Machine Learning | Natural Language Processing (NLP) & Large Language Models (LLM)
 
 ## Entrepreneurship Experience
