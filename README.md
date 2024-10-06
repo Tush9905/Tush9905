@@ -17,10 +17,13 @@
 LangChain, Open AI, GCP Vertex AI, Azure AI Studio
 
 **Full Stack Software Development:**
-FastAPI, NextJs, Streamlit, Unity, Unreal Engine
+FastAPI, NextJs, Streamlit
 
 **Cloud, DevOps & MLOps:**
 Gooogle Cloud Platform (GCP), Microsoft Azure, Amazon Web Services (AWS)
+
+**Game Development**
+Unity, Unreal Engine
 
 **Data Manipulation & Visualization:**
 Numpy, Pandas, Matplotlib, Seaborn, Power Bi
