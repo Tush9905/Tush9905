@@ -1,6 +1,6 @@
 # Tushaar V
 ## Founder & Owner of [LangYantra AI](https://langyantra.com)
-## Generative AI | Software Engineering
+### Generative AI | Software Engineering | Business & Entrepreneurship
 
 ## Entrepreneurship Experience
 ##  [LangYantra AI](https://langyantra.com)
