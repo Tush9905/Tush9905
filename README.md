@@ -4,7 +4,7 @@
 
 ## Entrepreneurship Experience
 ##  [LangYantra AI](https://langyantra.com)
-* Started the Business as a Startup, created the LangYantra AI Website using **Python, Typescript, FastAPI, NextJS, MongoDB, Docker, HTML & Tailwind CSS** and deployed it on the **Google Cloud Platform (GCP) using GCP Cloud Run**.
+* Built the Startup as a Solo Founder, created the LangYantra AI Website using **Python, Typescript, FastAPI, NextJS, MongoDB, Docker, HTML & Tailwind CSS** and deployed it on the **Google Cloud Platform (GCP) using GCP Cloud Run**.
 * Engineered the **LangYantra AI Tool**, an Automated No Code AI LLM Chatbot Creator using **Python, Typescript, FastAPI, NextJS, LangChain, AstraDB, Azure AI Studio, GCP Vertex AI, MongoDB, Docker.**
 * Inegrated LLMs like **GPT 4o, Llama 3.2, Gemini, etc-**
 * Created **Feautres** such as **Enable Login, Google Analytics, Lead Generation, Restricted Access etc-**
