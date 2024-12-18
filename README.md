@@ -12,26 +12,11 @@
 
 ## Skills
 
-**Generative AI:**
-LangChain, Open AI, GCP Vertex AI, Azure AI Studio
-
-**Full Stack Software Development:**
-FastAPI, NextJs, Streamlit
-
-**Cloud, DevOps & MLOps:**
-Gooogle Cloud Platform (GCP), Microsoft Azure, Amazon Web Services (AWS)
-
-**Game Development**
-Unity, Unreal Engine
-
-**Data Manipulation & Visualization:**
-Numpy, Pandas, Matplotlib, Seaborn, Power Bi
-
-**Programming Languages:**
-Python, C++, C#, JavaScript, TypeScript
-
-**Databases:**
-MongoDB
+Backend, DBs & Gen AI - Python, FastAPI, MongoDB, AstraDB, LangChain
+Frontend - JavaScript, TypeScript, React, NextJs
+Cloud & DevOps -  Docker, GCP, Azure, AWS
+Payments - Razorpay
+Game Development - Unity (C#), Unreal Engine (Blueprints & C++)
 
 <!--
 **Tush9905/Tush9905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
