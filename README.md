@@ -14,7 +14,7 @@
 
 * Backend, DBs & Gen AI - Python, FastAPI, MongoDB, AstraDB, LangChain
 * Frontend - JavaScript, TypeScript, React, NextJs
-* Cloud & DevOps -  Docker, GCP, Azure, AWS
+* Cloud & DevOps -  Docker, GCP, Azure AI Studio
 * Payments - Razorpay
 * Game Development - Unity (C#), Unreal Engine (Blueprints & C++)
 
