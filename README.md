@@ -12,11 +12,11 @@
 
 ## Skills
 
-Backend, DBs & Gen AI - Python, FastAPI, MongoDB, AstraDB, LangChain
-Frontend - JavaScript, TypeScript, React, NextJs
-Cloud & DevOps -  Docker, GCP, Azure, AWS
-Payments - Razorpay
-Game Development - Unity (C#), Unreal Engine (Blueprints & C++)
+* Backend, DBs & Gen AI - Python, FastAPI, MongoDB, AstraDB, LangChain
+* Frontend - JavaScript, TypeScript, React, NextJs
+* Cloud & DevOps -  Docker, GCP, Azure, AWS
+* Payments - Razorpay
+* Game Development - Unity (C#), Unreal Engine (Blueprints & C++)
 
 <!--
 **Tush9905/Tush9905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
