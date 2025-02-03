@@ -1,5 +1,5 @@
 # Tushaar V
-## Founder & Owner of [LangYantra AI](https://langyantra.com)
+## Founder & Owner of PowerCode.ai
 ### Generative AI | Software Engineering | Business & Entrepreneurship
 
 ## Entrepreneurship Experience
