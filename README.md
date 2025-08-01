@@ -5,7 +5,8 @@
 ## Entrepreneurship Experience
 ## [PowerCode.ai](https://powercode.ai)
 * Registered it as a **Sole Proprietorship.**
-* Created and Launched the AI Agent for Accounting - Tally AI Agent.
+* Created and Launched the AI Agent for Accounting - Tally AI Agent using **Python, Custom Tkinter, Langchain, Azure AI Foundry, MongoDB, TallyPrime, Nuitka, Azure Storage.**
+* Created and Deployed the User Dashboard for the Tally AI Agent using **Typescript, NextJs, Docker, GCP Cloud Run & Tailwind CSS.**
 * Created the PowerCode.ai Website using **Typescript, NextJS, Docker, HTML & Tailwind CSS** and deployed it on the **Google Cloud Platform (GCP) using GCP Cloud Run**.
 * Performed **Market Research & Analysis**
 
